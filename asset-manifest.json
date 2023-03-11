@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70481eeb.css",
+    "main.js": "/static/js/main.25231794.js",
+    "static/media/FontsFree-Net-SFProDisplay-Regular.ttf": "/static/media/FontsFree-Net-SFProDisplay-Regular.1e1c0e29b79b49a6ff4d.ttf",
+    "static/media/U.png": "/static/media/U.2db6662ed13f876f3ce4.png",
+    "static/media/Proxima Nova Font.otf": "/static/media/Proxima Nova Font.7bc9ce404c297c24f210.otf",
+    "static/media/MockUp7.png": "/static/media/MockUp7.d2024bb3e4299a619ee3.png",
+    "index.html": "/index.html",
+    "main.70481eeb.css.map": "/static/css/main.70481eeb.css.map",
+    "main.25231794.js.map": "/static/js/main.25231794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70481eeb.css",
+    "static/js/main.25231794.js"
+  ]
+}
